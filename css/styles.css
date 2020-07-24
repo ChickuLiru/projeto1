@@ -1,0 +1,91 @@
+.form{
+    display: block;
+    text-align: center;
+}
+.form1{
+    display: block;
+    text-align: center;
+}
+
+.format{
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 600px;
+    height: 700px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11em;
+}
+.format1{
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11em;
+}
+.header{
+    font-weight: 600;
+    font-size: 45px;
+    margin-top: 10px;
+}
+hr{
+    border: 1px solid black;
+}
+.inputs{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 400px;
+    height: 50px;
+    margin-top: 25px;
+    transition: 0.25s;
+}
+.inputs:focus{
+    outline: none;
+    width: 410px;
+}
+.input1{
+    margin-top: 2em;
+}
+.inputs:hover{
+    border-color: #18c95f;
+}
+.carousel-item{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-control-prev{
+    margin-left: 20px;
+}
+.carousel-control-next{
+    margin-right: 20px;
+}
+.lbl{
+    margin-top: 2em;
+}
+.btn{
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 1em;
+    background-color: white;
+    border-color: black;
+    transition: 0.25s;
+}
+.btn1:hover{
+    width: 120px;
+    background-color: #18c95f;
+}
+.btn2:hover{
+    width: 120px;
+    background-color: #e82c2c;
+}
